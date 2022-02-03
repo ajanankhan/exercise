@@ -1,4 +1,4 @@
 etxra exercise of github for pracrice.
 changed from local and try to commite only one file
-after one file commited
+after one file commited.
 
